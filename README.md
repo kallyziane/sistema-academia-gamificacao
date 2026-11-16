@@ -21,19 +21,19 @@ Muitos alunos desistem da academia nos primeiros meses. O dono também precisava
 ## 🖼️ Telas
 
 **Login**
-![Tela de login](telas/01-login.png)
+![Tela de login](01-login.png)
 
 **Painel do dono: avisos e aniversariantes**
-![Painel do dono](telas/02-painel-dono.png)
+![Painel do dono](02-painel-dono.png)
 
 **Ranking mensal (visão do aluno)**
-![Ranking](telas/03-ranking.png)
+![Ranking](03-ranking.png)
 
 **Relatório mensal e alunos sem treinar**
-![Relatório e alunos sem treinar](telas/04-relatorio-alunos-sem-treinar.png)
+![Relatório e alunos sem treinar](04-relatorio-alunos-sem-treinar.png)
 
 **Ficha de treino (visão do instrutor)**
-![Ficha de treino](telas/06-ficha-de-treino.jpg)
+![Ficha de treino](06-ficha-de-treino.jpg)
 
 📄 [Ver todas as telas em PDF](telas-sistema-academia.pdf)
 
