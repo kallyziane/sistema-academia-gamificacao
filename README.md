@@ -1,13 +1,13 @@
 # 🏋️ Sistema de Gestão e Gamificação para Academia
 
-Sistema web que desenvolvi de forma independente, com apoio de inteligência artificial, para uma academia com duas unidades no Maranhão (Coelho Neto e São Mateus).
+Sistema web que desenvolvi de forma independente, para uma academia com duas unidades no Maranhão (Coelho Neto e São Mateus).
 
-> 🔒 O código-fonte é privado, pois o sistema está sendo oferecido comercialmente. Este repositório é uma vitrine do projeto. As telas usam apenas dados de teste.
+>  O código-fonte é privado, pois o sistema está sendo oferecido comercialmente. Este repositório é uma vitrine do projeto. As telas usam apenas dados de teste.
 
-## 🔎 O problema
+##  O problema
 Muitos alunos desistem da academia nos primeiros meses. O dono também precisava de mais organização para acompanhar alunos e instrutores.
 
-## 💡 A solução
+## A solução
 - 🏆 **Ranking mensal** com pontos por treino concluído (por unidade e geral)
 - 🔥 **Ofensiva semanal** para incentivar a constância
 - 📍 **Check-in por localização**, que confirma que o aluno está na academia
@@ -18,7 +18,7 @@ Muitos alunos desistem da academia nos primeiros meses. O dono também precisava
 - 🎂 **Aniversariantes do mês**
 - 👥 Perfis: **dono**, **instrutor** e **aluno**
 
-## 🖼️ Telas
+## Telas
 
 **Login**
 ![Tela de login](01-login.png)
@@ -35,7 +35,7 @@ Muitos alunos desistem da academia nos primeiros meses. O dono também precisava
 **Ficha de treino (visão do instrutor)**
 ![Ficha de treino](06-ficha-de-treino.jpg)
 
-📄 [Ver todas as telas em PDF](telas-sistema-academia.pdf)
+ [Ver todas as telas em PDF](telas-sistema-academia.pdf)
 
-## 🛠️ Tecnologias
+## Tecnologias
 HTML · CSS · JavaScript · Java · Spring Boot · PostgreSQL
